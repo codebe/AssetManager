@@ -46,5 +46,10 @@
         "psr-0": {
             "AssetManagerTest": "tests"
         }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-patch": "1.5.1-dev"
+        }
     }
 }
